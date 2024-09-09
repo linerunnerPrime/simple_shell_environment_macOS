@@ -1,5 +1,3 @@
-# simple_shell_environment_macOS
-
 # These are the two most common config files you'll interact with when customizing your sehll environment
 
 ## ``.profile``
@@ -19,5 +17,9 @@
 # Preferred terminal emulator for MacOS: iterm2
 ## Download the newest version at the link below and copy it into your applications folder 
 - https://iterm2.com/downloads.html
+
 ## You'll also find a copy of my current iterm2 config that I use that should include my custom hotkey setup.
 - <https://github.com/linerunnerPrime/simple_shell_environment_macOS/blob/main/iTerm2%20State_090824.itermexport>
+
+## Additionally, you may want or be prompted to install a nerdfont which can be done quickly by running the following
+- ``brew install --cask font-hurmit-nerd-font``
