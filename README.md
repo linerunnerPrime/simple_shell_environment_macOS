@@ -20,3 +20,4 @@
 ## Download the newest version at the link below and copy it into your applications folder 
 - https://iterm2.com/downloads.html
 ## You'll also find a copy of my current iterm2 config that I use that should include my custom hotkey setup.
+- <https://github.com/linerunnerPrime/simple_shell_environment_macOS/blob/main/iTerm2%20State_090824.itermexport>
